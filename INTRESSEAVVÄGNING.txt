@@ -1,0 +1,41 @@
+Vad är en intresseavvägning? Vad har den för syfte?
+===================================================
+
+LiTHe kod måste som förening följa dataskyddsförordningen (GDPR). Syftet är att
+skydda enskilda individers personuppgifter. Personuppgifter är allt som kan
+identifiera en enskild levande person, t.ex. namn som sparas här. För att få spara
+personuppgifter krävs en "rättslig grund", vilken du nu läser i form av en
+intresseavvägning.
+
+Det är viktigt att notera att en person som vill ha sina personuppgifter
+borttagna alltid har rätt till det. Om dina personuppgifter finns sparade
+någonstans i dom här protokollen kan du kontakta någon i den sittande styrelsen
+(https://lithekod.se/contact) och be om att bli borttagen. Styrelsen är då
+skyldig att "skyndsamt" ta bort personuppgifterna.
+
+Varför vill vi spara personuppgifter?
+=====================================
+
+Vi anser att transparens är av stor vikt för en demokratiskt förlagd förening.
+Stormötet är "föreningens högsta beslutande organ" (LiTHe kods stadgar, s. 4,
+2022-04-21) och därför vill vi dokumentera stormöten så långt som möjligt på ett
+sätt som är enkelt tillgängligt.
+
+Följande personuppgifter sparas i stormötesprotokollen:
+
+1) Namn på stormötets ansvariga: mötesordförande, mötessekreterare, justeringsperson och
+rösträknare.
+
+2) Namn på personer som presenterar ordinarie mötespunkter, t.ex. revisor
+(granskning av styrelsen), ordförande (verksamhetsberättelse), sittande kassör
+(ekonomisk berättelse) och personer som skickar in motioner och propositioner.
+
+3) Namn på sökanden till styrelseposter; både valberedningens förslag och
+eventuella motkandidaturer.
+
+Mer information
+===============
+- https://lithekod.se/organization/se
+- https://www.imy.se/verksamhet/dataskydd/det-har-galler-enligt-gdpr/
+- https://www.imy.se/verksamhet/dataskydd/det-har-galler-enligt-gdpr/introduktion-till-gdpr/
+- https://www.imy.se/verksamhet/dataskydd/det-har-galler-enligt-gdpr/rattslig-grund/intresseavvagning/
