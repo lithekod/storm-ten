@@ -1,0 +1,76 @@
+\documentclass[a4paper]{article}
+\usepackage[T1]{fontenc}
+
+\usepackage[left=2cm,right=2cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{caption}
+\usepackage[swedish]{babel}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+
+\titleformat{\section}{\large\bfseries}{}{0.0em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{}{0.0em}{}
+
+\begin{document}
+
+\pagestyle{fancy}
+\lhead{\includegraphics[height=4em]{lithekod.png}}
+\rhead{VÅRMÖTE/HÖSTMÖTE YYYY\\Linköping YYYY--MM--DD\\\phantom{}}
+\pagenumbering{gobble}
+
+\setlength{\headheight}{50pt}
+
+\begin{center}
+{\huge LiTHe kod VÅRMÖTE/HÖSTMÖTE YYYY}\par
+\vspace{0.5em}
+{\Large Caf\'e Java}\par
+{YYYY--MM--DD}
+\vspace{1.5em}
+\end{center}
+
+\section{Mötets öppnande}
+
+Mötet öppnas HH:MM av NAMN.
+
+\section{Val av mötesordförande}
+
+\section{Val av mötessekreterare}
+
+\section{Val av justeringsperson tillika rösträknare}
+
+\section{Fastställande av röstlängden}
+
+\section{Beslut om mötets stadgeenliga utlysande}
+
+% här vill du troligen ha in fler mötespunkter
+
+\section{Motioner och propositioner}
+
+\section{Övriga frågor}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item \emph{Fråga:} En fråga. \\
+    \emph{Svar:} Ett svar.
+\end{enumerate}
+
+Mötet avslutas HH:MM av NAMN.
+
+\vspace{2em}
+
+\begin{center}
+\begin{tabular}{@{}p{0.5\textwidth}p{0.4\textwidth}@{}}
+  \textbf{Mötesordförande} & \textbf{Mötessekreterare} \\[0.3em]
+  NAMN & NAMN \\
+  \vspace{8em} &\\
+  \textbf{Justeringsperson} & \textbf{Justeringsperson} \\[0.3em]
+  NAMN & NAMN \\
+  \vspace{8em} &\\
+\end{tabular}
+\end{center}
+
+\end{document}
