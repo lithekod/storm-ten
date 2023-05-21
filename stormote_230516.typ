@@ -2,9 +2,8 @@
 
 #set heading(numbering: "1.1.")
 #align(center)[
-LiTHe kods vårmöte 2023 #linebreak()
-Ada Lovelace #linebreak()
-2023-05-16
+#text(size: 20pt)[LiTHe kod vårmöte 2023]#linebreak()#v(0.2em)
+#text(size: 14pt)[Ada Lovelace #linebreak() 2023-05-16]
 ]
 
 = Mötets öppnande
@@ -35,18 +34,18 @@ Lowe går igenom vad stadgarna säger om stormötets utlysande.
 
 = Styrelsens verksamhetsberättelse
 
-Lowe läser upp verksamhetsberättelsen för verksamhetsåret 22/23.
+Lowe läser upp verksamhetsberättelsen för verksamhetsåret 22/23. Verksamhetsberättelsen läggs till handlingarna som bilaga B.
 
 [TODO]
 
 Fråga: Hur många lag deltog i NWERC i Delft? #linebreak()
 Svar: 200 lag ungefär.
 
-Kommentar: Inte sist!
+(Inte sist!)
 
 = Styrelsens ekonomiska berättelse
 
-Styrelsens kassör Emanuel Särnhammar läser upp den ekonomiska berättelsen för verksamhetsåret 22/23.
+Styrelsens kassör Emanuel Särnhammar läser upp den ekonomiska berättelsen för verksamhetsåret 22/23. Den ekonomiska berättelsen läggs till handlingarna som bilaga C.
 
 [TODO]
 
@@ -60,7 +59,7 @@ Svar: Jo, det är redan ändrat i nästa års budgetförslag.
 
 = Revisorns preliminära granskning av verksamhetsåret
 
-Föreningens revisor Victor Lells läser upp den preliminära granskningen.
+Föreningens revisor Victor Lells läser upp den preliminära granskningen. Granskningen läggs till handlingarna som bilaga D.
 
 = Proposition: Testa och utvärdera att införa undergrupper för föreningens verksamhet för nästa verksamhetsår
 
@@ -83,7 +82,7 @@ Svar: Martin som föreslagits som gruppledare för LiU Game Jam hade inte velat 
 Fråga: Vad händer med en undergrupps budget om gruppledarposten är vakantsatt? #linebreak()
 Svar: Budgeten lämnas som den är. Antingen hittar styrelsen en person senare under året, eller så använder styrelsen budgeten för det budgeterade syftet. Styrelsen kan ses som ovanför undergrupper och spenderar pengar "för" undergrupper, vid behov, medan en gruppledare som regel enbart spenderar pengar inom sin budgetpost.
 
-*Beslut* Mötet adjungeras till 19.25.
+*Beslut (19.08)* Mötet adjungeras till 19.25.
 
 Lowe återupptar mötet 19.27. Röstlängden justeras till 13.
 
@@ -116,9 +115,9 @@ Styrelsen nominerar Emanuel Särnhammar.
 
 === Val av styrelsens verksamhetsledare
 
-Styrelsen nominerar Hamza ?.
+Styrelsen nominerar Hamza Keifo.
 
-*Beslut* Hamza ? väljs till styrelsens verksamhetsledare.
+*Beslut* Hamza Keifo väljs till styrelsens verksamhetsledare.
 
 === Val av styrelseledamöter
 
@@ -151,9 +150,9 @@ Röstlängden justeras till 13.
 
 = Fastställande av föreningens budget
 
-Budgeten presenteras.
+Budgeten presenteras och läggs till handlingarna som bilaga D.
 
-Mötet beslutar att anta den föreslagna budgeten.
+*Beslut* Den föreslagna budgeten antas.
 
 = Fastställande av föreningens medlemsavgift
 
@@ -161,7 +160,7 @@ Styrelsen föreslår att medlemsavgiften behålls på den nuvarande 20 kr för n
 medlemmar och 0 kr för nuvarande medlemmar.
 
 Fråga: Borde föreningen gå över till en mer medlemsfinansierad modell? #linebreak()
-Svar: Kanske bra, men inte i år.
+Svar: Kanske senare, men inte i år.
 
 *Beslut* Medlemsavgiften fastställs till 20 kr för nya medlemmar och 0 kr för nuvarande medlemmar.
 
@@ -171,12 +170,17 @@ Inga inkomna.
 
 = Övriga frågor
 
+Inga övriga frågor.
+
+= Mötet avslutas
+
 Mötet avslutas 20.04.
 
-#pagebreak()
 #table(
     columns: (1fr, 1fr),
     stroke: none,
+    inset: 0pt,
+    gutter: 0.5em,
     v(4em), [],
     [*Mötesordförande*], [*Mötessekreterare*],
     [Lowe Kozak], [Gustav Sörnäs],
