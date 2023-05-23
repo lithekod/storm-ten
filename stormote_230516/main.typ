@@ -1,6 +1,8 @@
 // vim: filetype=
 
 #set heading(numbering: "1.1.")
+#set page(numbering: "1 (1)")
+
 #align(center)[
 #text(size: 20pt)[LiTHe kod vårmöte 2023]#linebreak()#v(0.2em)
 #text(size: 14pt)[Ada Lovelace #linebreak() 2023-05-16]
@@ -8,7 +10,7 @@
 
 = Mötets öppnande
 
-Styrelsens ordförande Lowe Kozak förklarar mötet öppnat [XX.YY].
+Styrelsens ordförande Lowe Kozak förklarar mötet öppnat 18:24.
 
 = Val av mötesordförande
 
@@ -24,7 +26,7 @@ Lowe nominerar Hannah Bahremann och Victor Lells. Inga motsättningar.
 
 = Fastställande av röstlängden
 
-*Beslut* Fastlängden fastställs till 14.
+*Beslut* Röstlängden fastställs till 14.
 
 = Beslut om mötest stadgeenliga utlysande
 
@@ -34,9 +36,7 @@ Lowe går igenom vad stadgarna säger om stormötets utlysande.
 
 = Styrelsens verksamhetsberättelse
 
-Lowe läser upp verksamhetsberättelsen för verksamhetsåret 22/23. Verksamhetsberättelsen läggs till handlingarna som bilaga B.
-
-[TODO]
+Lowe läser upp verksamhetsberättelsen för verksamhetsåret 22/23. Verksamhetsberättelsen läggs till handlingarna.
 
 Fråga: Hur många lag deltog i NWERC i Delft? #linebreak()
 Svar: 200 lag ungefär.
@@ -45,9 +45,7 @@ Svar: 200 lag ungefär.
 
 = Styrelsens ekonomiska berättelse
 
-Styrelsens kassör Emanuel Särnhammar läser upp den ekonomiska berättelsen för verksamhetsåret 22/23. Den ekonomiska berättelsen läggs till handlingarna som bilaga C.
-
-[TODO]
+Styrelsens kassör Emanuel Särnhammar läser upp den ekonomiska berättelsen för verksamhetsåret 22/23. Den ekonomiska berättelsen läggs till handlingarna.
 
 Kommentar: NCPC-posten räknar in NWERC-resan.
 
@@ -59,7 +57,11 @@ Svar: Jo, det är redan ändrat i nästa års budgetförslag.
 
 = Revisorns preliminära granskning av verksamhetsåret
 
-Föreningens revisor Victor Lells läser upp den preliminära granskningen. Granskningen läggs till handlingarna som bilaga D.
+Föreningens revisor Victor Lells läser upp den preliminära granskningen.
+
+#box(stroke: 1pt, inset: 1em)[
+_Ja, ser bra ut._
+]
 
 = Proposition: Testa och utvärdera att införa undergrupper för föreningens verksamhet för nästa verksamhetsår
 
@@ -82,9 +84,9 @@ Svar: Martin som föreslagits som gruppledare för LiU Game Jam hade inte velat 
 Fråga: Vad händer med en undergrupps budget om gruppledarposten är vakantsatt? #linebreak()
 Svar: Budgeten lämnas som den är. Antingen hittar styrelsen en person senare under året, eller så använder styrelsen budgeten för det budgeterade syftet. Styrelsen kan ses som ovanför undergrupper och spenderar pengar "för" undergrupper, vid behov, medan en gruppledare som regel enbart spenderar pengar inom sin budgetpost.
 
-*Beslut (19.08)* Mötet adjungeras till 19.25.
+*Beslut (19:08)* Mötet adjungeras till 19:25.
 
-Lowe återupptar mötet 19.27. Röstlängden justeras till 13.
+Lowe återupptar mötet 19:27. Röstlängden justeras till 13.
 
 *Beslut* Mötet antar linje 2 i propositionen.
 
@@ -150,7 +152,7 @@ Röstlängden justeras till 13.
 
 = Fastställande av föreningens budget
 
-Budgeten presenteras och läggs till handlingarna som bilaga D.
+Budgeten presenteras och läggs till handlingarna.
 
 *Beslut* Den föreslagna budgeten antas.
 
@@ -174,7 +176,7 @@ Inga övriga frågor.
 
 = Mötet avslutas
 
-Mötet avslutas 20.04.
+Mötet avslutas 20:04.
 
 #table(
     columns: (1fr, 1fr),
@@ -188,15 +190,3 @@ Mötet avslutas 20.04.
     [*Justeringsperson*], [*Justeringsperson*],
     [Hannah Bahremann], [Victor Lells],
 )
-
-Bilagor
-
-Proposition
-
-Verksamhetsberättelse
-
-Ekonomisk berättelse
-
-Revisorns preliminära granskning
-
-Budget
