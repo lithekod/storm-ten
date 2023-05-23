@@ -2,7 +2,7 @@
 
 = Styrelsens föreslagna budget
 
-#v(0.5em)
+_Med en asterisk menas att ytterligare inkomster och utgifter är väntade innan verksamhetsårets slut._
 
 ```
 (kr)
