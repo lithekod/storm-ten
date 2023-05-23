@@ -2,7 +2,7 @@
 
 = Styrelsens föreslagna budget
 
-#v(1em)
+#v(0.5em)
 
 ```
 (kr)
