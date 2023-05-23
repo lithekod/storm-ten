@@ -127,6 +127,10 @@ Styrelsen nominerar Hannah Bahrehman.
 
 *Beslut* Hannah Bahrehman väljs till styrelseledamot.
 
+Simon Gutgesell nominerar sig själv.
+
+*Beslut* Simon Gutgesell väljs till styrelseledamot.
+
 == Gruppledare för föreningens undergrupper för verksamhetsåret 23/24
 
 Styrelsen nominerar följande personer:
