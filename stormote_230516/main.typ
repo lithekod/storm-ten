@@ -22,7 +22,7 @@ Lowe nominerar Gustav Sörnäs. Inga motsättningar.
 
 = Val av justeringsperson tillika rösträknare
 
-Lowe nominerar Hannah Bahremann och Victor Lells. Inga motsättningar.
+Lowe nominerar Hannah Bahrehman och Victor Lells. Inga motsättningar.
 
 = Fastställande av röstlängden
 
@@ -123,9 +123,9 @@ Styrelsen nominerar Hamza Keifo.
 
 === Val av styrelseledamöter
 
-Styrelsen nominerar Hannah Bahremann.
+Styrelsen nominerar Hannah Bahrehman.
 
-*Beslut* Hannah Bahremann väljs till styrelseledamot.
+*Beslut* Hannah Bahrehman väljs till styrelseledamot.
 
 == Gruppledare för föreningens undergrupper för verksamhetsåret 23/24
 
@@ -135,7 +135,7 @@ Styrelsen nominerar följande personer:
 - Gustav Sörnäs som gruppledare för hårdvarugruppen.
 - Simon Gutgesell som gruppledare för WWW-gruppen.
 - Emanuel Särnhammar som gruppledare för meetupgruppen.
-- Hannah Bahremann som gruppledare för lokalgruppen.
+- Hannah Bahrehman som gruppledare för lokalgruppen.
 - Lowe Kozak som gruppledare för tävlingsprogrammeringsgruppen.
 
 *Beslut* Styrelsens nomineringar till gruppledare antas.
@@ -188,5 +188,5 @@ Mötet avslutas 20:04.
     [Lowe Kozak], [Gustav Sörnäs],
     v(4em), [],
     [*Justeringsperson*], [*Justeringsperson*],
-    [Hannah Bahremann], [Victor Lells],
+    [Hannah Bahrehman], [Victor Lells],
 )
