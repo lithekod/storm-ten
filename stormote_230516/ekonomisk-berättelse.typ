@@ -1,1 +1,0 @@
-Ekonomisk berättelse

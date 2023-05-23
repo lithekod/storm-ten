@@ -1,5 +1,7 @@
 // vim: filetype=
 
+#set page(numbering: "1 (1)")
+
 = Styrelsens föreslagna budget
 
 _Med en asterisk menas att ytterligare inkomster och utgifter är väntade innan verksamhetsårets slut._

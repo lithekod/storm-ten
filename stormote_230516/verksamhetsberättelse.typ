@@ -1,5 +1,7 @@
 // vim: filetype=
 
+#set page(numbering: "1 (1)")
+
 = Föregånde verksamhetsårs styrelses verksamhetsberättelse
 
 LiTHe kod har under verksamhetsåret 22/23 anordnat och samordnat ett antal
