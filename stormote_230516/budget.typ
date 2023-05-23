@@ -9,7 +9,7 @@ _Med en asterisk menas att ytterligare inkomster och utgifter är väntade innan
 ```
 (kr)
 =================================================
-Intäkter                    Budget |       22/23
+Intäkter              Budget 23/24 |       22/23
 -----------------------------------+-------------
 Intäkter                           |
 Spons                   140 000,00 |  160 000,00
