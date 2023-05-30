@@ -142,7 +142,7 @@ Styrelsen nominerar följande personer:
 - Hannah Bahrehman som gruppledare för lokalgruppen.
 - Lowe Kozak som gruppledare för tävlingsprogrammeringsgruppen.
 
-*Beslut* Styrelsens nomineringar till gruppledare antas.
+*Beslut* Styrelsens nomineringar till gruppledare väljs in.
 
 == Val av föreningens revisor
 
